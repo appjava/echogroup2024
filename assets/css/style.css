@@ -1873,20 +1873,14 @@ p {
 }
 /*# sourceMappingURL=style.css.map */
 
-.lang {
-  font-size: 20px;
-  color: #EEC41E;
-  position: fixed;
-  right: 30px;
-  top: 15px;
-  width: 40px;
-  height: 40px;
-  line-height: 40px;
-  border-radius: 5px;
-  background-color: none;
-  text-align: center;
-  z-index: 99;
-  -webkit-transition: all 0.3s ease-out 0s;
-  transition: all 0.3s ease-out 0s;
-  display:inline;
+.header_navbar img{
+  border-radius: 9px;
+  width: 45px;
+  height: 45px;
+}
+.header_navbar h3{
+  font-weight:normal;
+}
+.blanco{
+  color: #fff;
 }
